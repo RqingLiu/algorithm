@@ -1,0 +1,107 @@
+[
+  {
+    "id": "travel-beijing",
+    "title": "虚构住宿政策：北京",
+    "version": 2,
+    "groups": [
+      "employees"
+    ],
+    "region": "上海",
+    "topic": "住宿",
+    "destination": "北京",
+    "status": "published",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "content": "## 住宿上限\n上海员工前往北京出差，住宿报销上限为每晚 800 元。超过上限必须事先获得主管书面批准。\n\n## 申请材料\n住宿报销需要酒店发票与出差审批单。"
+  },
+  {
+    "id": "travel-shenzhen",
+    "title": "虚构住宿政策：深圳",
+    "version": 1,
+    "groups": [
+      "employees"
+    ],
+    "region": "上海",
+    "topic": "住宿",
+    "destination": "深圳",
+    "status": "published",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "content": "## 住宿上限\n上海员工前往深圳出差，住宿报销上限为每晚 600 元。超过上限必须事先获得主管书面批准。"
+  },
+  {
+    "id": "leave",
+    "title": "虚构年假申请政策",
+    "version": 1,
+    "groups": [
+      "employees"
+    ],
+    "region": "上海",
+    "topic": "年假",
+    "destination": null,
+    "status": "published",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "content": "## 申请入口\n年假申请入口为公司 OA 的休假管理页面。提交年假申请后由直属主管审批。\n\n## 年假余额\n年假余额以 HR 系统的个人账户为准。这份文档不包含个人剩余天数。"
+  },
+  {
+    "id": "salary",
+    "title": "虚构 HR 薪酬审阅政策",
+    "version": 1,
+    "groups": [
+      "hr"
+    ],
+    "region": "上海",
+    "topic": "薪酬",
+    "destination": null,
+    "status": "published",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "content": "## 薪酬审阅\n薪酬审阅材料仅向 HR 组开放，审批流程为 HR 负责人和财务负责人联合审批。"
+  },
+  {
+    "id": "travel-old",
+    "title": "虚构旧版北京住宿政策",
+    "version": 1,
+    "groups": [
+      "employees"
+    ],
+    "region": "上海",
+    "topic": "住宿",
+    "destination": "北京",
+    "status": "published",
+    "effective_from": "2025-01-01",
+    "effective_to": "2026-01-01",
+    "content": "## 住宿上限\n上海员工前往北京出差，旧标准为每晚 999 元。此政策已失效。"
+  },
+  {
+    "id": "leave-ny",
+    "title": "虚构纽约年假政策",
+    "version": 1,
+    "groups": [
+      "employees"
+    ],
+    "region": "纽约",
+    "topic": "年假",
+    "destination": null,
+    "status": "published",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "content": "## 申请入口\n纽约员工通过 NY-HR 门户申请年假。"
+  },
+  {
+    "id": "future",
+    "title": "虚构未来北京住宿政策",
+    "version": 3,
+    "groups": [
+      "employees"
+    ],
+    "region": "上海",
+    "topic": "住宿",
+    "destination": "北京",
+    "status": "published",
+    "effective_from": "2099-01-01",
+    "effective_to": null,
+    "content": "## 住宿上限\n未来住宿上限为每晚 2000 元，尚未生效。"
+  }
+]
