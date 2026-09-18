@@ -1,0 +1,18 @@
+{
+  "documents": [
+    {
+      "id": "travel-beijing",
+      "title": "虚构住宿政策：北京",
+      "content": "## 住宿上限\n上海员工前往北京出差，住宿报销上限为每晚 850 元。超过上限必须事先获得主管书面批准。",
+      "groups": [
+        "employees"
+      ],
+      "region": "上海",
+      "topic": "住宿",
+      "destination": "北京",
+      "status": "published",
+      "effective_from": "2026-01-01",
+      "effective_to": null
+    }
+  ]
+}
